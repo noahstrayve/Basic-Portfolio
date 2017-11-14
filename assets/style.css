@@ -1,0 +1,62 @@
+h1 {
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	color: #4aaaa5;
+}
+
+.bio {
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	
+}
+
+.ProfilePic {
+	opacity: 50%;
+	width: 50%;
+	height: 50%;
+	
+}
+
+header {
+	position: fixed;
+	width: 100%;
+	height: 60px;
+	background: #ffffff;
+	padding: 10px;
+	float: left;
+	
+}
+
+.links {
+	text-align: right;
+	margin-right: 35px;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+
+}
+
+.MyNameBox {
+	background: #4aaaa5;
+	width: 200px;
+	height: 80px;
+	float: left;
+	margin-top: -60px;
+
+}
+
+.MyName {
+	color: #ffffff;
+	padding: 10px;
+	text-align: center
+
+}
+
+body {
+	background-color: #eeeeee;
+}
+
+.MainPage {
+	width: 590px;
+	padding: 30px;
+	margin-left: 160px;
+	background: #ffffff;
+	margin-top: 100px;
+	float: left;
+}
